@@ -1,0 +1,41 @@
+.navbar {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  height: 60px;
+  background-color: #66666d;
+}
+.logoProps {
+  height: 30px;
+  width: 30px;
+  margin-top: 6px;
+}
+.titleProps {
+  font-size: 25px;
+  color: aliceblue;
+  margin-left: 10px;
+}
+
+.tempStyle {
+  font-size: 40px;
+}
+.descStyle {
+  font-size: x-large;
+}
+
+.currentWeatherStyle {
+  background-color: #201e2026;
+}
+.headingStyle {
+  font-size: medium;
+  font-weight: bold;
+}
+.dateStyle {
+  font-size: 12px;
+}
+.tempCardStyle {
+  font-size: 15px;
+}
